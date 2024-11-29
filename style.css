@@ -1,0 +1,183 @@
+body,html{
+ height: 100%;
+ width: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: rgb(31, 27, 27);
+ padding: 0;
+ margin: 1rem 0rem;
+ font-family: "Inter","sans-serif";
+}
+
+#quiz-container{
+    display: grid;
+    width: 90%;
+    height: 100%;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 20px;
+    padding: 1 rem;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow:  0 4px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    font-size: 30px;
+    font-weight: 600;
+}
+.section:hover{
+    transform: translateY(-7px);
+}
+.section[data-section="0"]{
+    background-image: url("https://kidyaan.com/wp-content/uploads/2019/12/general-knowledge.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:  #e7dddd;
+}
+.section[data-section="1"]{
+    background-image: url("https://cdn.vectorstock.com/i/500p/82/01/science-principles-background-vector-53948201.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:   #f8f3f3;
+}
+.section[data-section="2"]{
+    background-image: url("https://wallpapers.com/images/featured/math-zarpq292tmb3whun.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:  #e7dddd;
+}
+.section[data-section="3"]{
+    background-image: url("https://t4.ftcdn.net/jpg/08/66/97/43/360_F_866974399_OPTL4oNwkiuqf5X4gazWcZAJJBz1V1rC.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #e7dddd;
+}
+#question-container{
+    display: none;
+    margin-top: 20px;
+}
+#score{
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #e7dddd;
+}
+#question{
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #e7dddd;
+}
+#options div{
+    padding: 10px;
+    margin: 5px;
+    background-color: white;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.btns{
+    display: flex;
+    justify-content: space-between;
+}
+#next-button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(25, 159, 192);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#next-button:hover{
+    background-color: #0056b3;
+}
+#home-button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(25, 159, 192);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#home-button:hover{
+    background-color: #0056b3;
+}
+#home-button-result{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(25, 159, 192);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#home-button-result:hover{
+    background-color: #0056b3;
+}
+.selected{
+    background-color: #d1e0ff;
+}
+#feedback{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 5px 0px;
+    margin-top: 20px;
+    background-color: transparent;
+    border-radius: 5px;
+}
+input[type="text"],input[type="number"]{
+    width: 80%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: "Inter","sans-serif";
+}
+button.submit-answer{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;      
+}
+button.submit-answer:hover{
+    background-color: #218838;
+}
+.submit-button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(25, 159, 192);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;   
+}
+#final-score{
+    margin-bottom: 15px;
+    color: #e7dddd;
+}
+#result-container{
+  align-items: center;
+  flex-direction: column;
+}
+.answer{
+    color: #e7dddd;
+    font-weight: 500;   
+}

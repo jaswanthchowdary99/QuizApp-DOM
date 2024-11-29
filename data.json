@@ -1,0 +1,453 @@
+{
+    "quiz": {
+        "general_knowledge": [
+      {
+        "question": "What is the capital of France?",
+        "type": "mcq",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Who wrote the book 'Wings of Fire'?",
+        "type": "one_word",
+        "answer": "APJ Abdul Kalam"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "type": "mcq",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+      },
+      {
+        "question": "What is the national currency of Japan?",
+        "type": "one_word",
+        "answer": "Yen"
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "type": "mcq",
+        "options": ["China", "Japan", "South Korea", "India"],
+        "answer": "Japan"
+      },
+      {
+        "question": "Who was the first man to step on the Moon?",
+        "type": "one_word",
+        "answer": "Neil Armstrong"
+      },
+      {
+        "question": "What is the smallest country in the world?",
+        "type": "mcq",
+        "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+        "answer": "Vatican City"
+      },
+      {
+        "question": "What is the official language of Brazil?",
+        "type": "one_word",
+        "answer": "Portuguese"
+      },
+      {
+        "question": "Which desert is the largest in the world?",
+        "type": "mcq",
+        "options": ["Sahara", "Gobi", "Kalahari", "Arctic"],
+        "answer": "Sahara"
+      },
+      {
+        "question": "What is the boiling point of water at sea level (in Celsius)?",
+        "type": "one_word",
+        "answer": "100"
+      },
+      {
+        "question": "Who invented the telephone?",
+        "type": "mcq",
+        "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+        "answer": "Alexander Graham Bell"
+      },
+      {
+        "question": "Which ocean is the largest in the world?",
+        "type": "one_word",
+        "answer": "Pacific"
+      },
+      {
+        "question": "Which is the tallest mountain in the world?",
+        "type": "mcq",
+        "options": ["K2", "Everest", "Kangchenjunga", "Makalu"],
+        "answer": "Everest"
+      },
+      {
+        "question": "What is the largest mammal on Earth?",
+        "type": "one_word",
+        "answer": "Blue Whale"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "type": "mcq",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "type": "one_word",
+        "answer": "Canberra"
+      },
+      {
+        "question": "In which year did World War II end?",
+        "type": "mcq",
+        "options": ["1945", "1939", "1941", "1949"],
+        "answer": "1945"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "type": "one_word",
+        "answer": "Jupiter"
+      },
+      {
+        "question": "Which river is the longest in the world?",
+        "type": "mcq",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile"
+      },
+      {
+        "question": "Which is the smallest continent?",
+        "type": "one_word",
+        "answer": "Australia"
+      }
+    ],
+    "science": [
+      {
+        "question": "What is the chemical symbol for water?",
+        "type": "mcq",
+        "options": ["H2O", "O2", "CO2", "HO"],
+        "answer": "H2O"
+      },
+      {
+        "question": "What gas do plants absorb from the atmosphere?",
+        "type": "one_word",
+        "answer": "Carbon Dioxide"
+      },
+      {
+        "question": "What is the hardest natural substance on Earth?",
+        "type": "mcq",
+        "options": ["Gold", "Iron", "Diamond", "Quartz"],
+        "answer": "Diamond"
+      },
+      {
+        "question": "What is the center of an atom called?",
+        "type": "one_word",
+        "answer": "Nucleus"
+      },
+      {
+        "question": "What organ in the human body filters blood?",
+        "type": "mcq",
+        "options": ["Heart", "Kidney", "Liver", "Lungs"],
+        "answer": "Kidney"
+      },
+      {
+        "question": "Which planet is closest to the Sun?",
+        "type": "one_word",
+        "answer": "Mercury"
+      },
+      {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "type": "mcq",
+        "options": ["300,000", "299,792,458", "250,000", "400,000"],
+        "answer": "299,792,458"
+      },
+      {
+        "question": "Which is the most abundant gas in Earth's atmosphere?",
+        "type": "one_word",
+        "answer": "Nitrogen"
+      },
+      {
+        "question": "What is the study of fossils called?",
+        "type": "mcq",
+        "options": ["Paleontology", "Archaeology", "Geology", "Biology"],
+        "answer": "Paleontology"
+      },
+      {
+        "question": "What is the unit of force?",
+        "type": "one_word",
+        "answer": "Newton"
+      },
+      {
+        "question": "Which part of the cell contains the genetic material?",
+        "type": "mcq",
+        "options": ["Cytoplasm", "Nucleus", "Mitochondria", "Ribosome"],
+        "answer": "Nucleus"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "type": "one_word",
+        "answer": "Au"
+      },
+      {
+        "question": "Which gas is essential for breathing?",
+        "type": "mcq",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "What is the process by which plants make their food?",
+        "type": "one_word",
+        "answer": "Photosynthesis"
+      },
+      {
+        "question": "What is the nearest star to Earth?",
+        "type": "mcq",
+        "options": ["Sirius", "Proxima Centauri", "Alpha Centauri", "The Sun"],
+        "answer": "The Sun"
+      },
+      {
+        "question": "What organelle is known as the powerhouse of the cell?",
+        "type": "one_word",
+        "answer": "Mitochondria"
+      },
+      {
+        "question": "What type of blood cells help fight infections?",
+        "type": "mcq",
+        "options": ["Red", "White", "Platelets", "Plasma"],
+        "answer": "White"
+      },
+      {
+        "question": "What is the study of weather called?",
+        "type": "one_word",
+        "answer": "Meteorology"
+      },
+      {
+        "question": "What force keeps planets in orbit around the Sun?",
+        "type": "mcq",
+        "options": ["Friction", "Magnetism", "Gravity", "Inertia"],
+        "answer": "Gravity"
+      },
+      {
+        "question": "What is the main gas found in the Sun?",
+        "type": "one_word",
+        "answer": "Hydrogen"
+      }
+    ],
+      "mathematics": [
+        {
+          "question": "What is the square root of 144?",
+          "type": "mcq",
+          "options": ["12", "14", "16", "18"],
+          "answer": "12"
+        },
+        {
+          "question": "What is 15% of 200?",
+          "type": "one_word",
+          "answer": "30"
+        },
+        {
+          "question": "What is the value of pi (up to two decimal points)?",
+          "type": "mcq",
+          "options": ["3.12", "3.14", "3.16", "3.18"],
+          "answer": "3.14"
+        },
+        {
+          "question": "What is the product of 9 and 8?",
+          "type": "one_word",
+          "answer": "72"
+        },
+        {
+          "question": "What is the perimeter of a square with side length 5?",
+          "type": "mcq",
+          "options": ["10", "15", "20", "25"],
+          "answer": "20"
+        },
+        {
+          "question": "What is the additive identity in mathematics?",
+          "type": "one_word",
+          "answer": "0"
+        },
+        {
+          "question": "Solve: 7 × (4 + 3) - 5",
+          "type": "mcq",
+          "options": ["38", "40", "45", "50"],
+          "answer": "38"
+        },
+        {
+          "question": "What is the area of a triangle with base 10 and height 8?",
+          "type": "one_word",
+          "answer": "40"
+        },
+        {
+          "question": "What is the smallest prime number?",
+          "type": "mcq",
+          "options": ["1", "2", "3", "5"],
+          "answer": "2"
+        },
+        {
+          "question": "What is 2 to the power of 5?",
+          "type": "one_word",
+          "answer": "32"
+        },
+        {
+          "question": "What is the highest common factor (HCF) of 12 and 16?",
+          "type": "mcq",
+          "options": ["2", "4", "6", "8"],
+          "answer": "4"
+        },
+        {
+          "question": "If a circle has a radius of 7, what is its diameter?",
+          "type": "one_word",
+          "answer": "14"
+        },
+        {
+          "question": "What is 100 divided by 4?",
+          "type": "mcq",
+          "options": ["20", "25", "30", "40"],
+          "answer": "25"
+        },
+        {
+          "question": "How many degrees are in a right angle?",
+          "type": "one_word",
+          "answer": "90"
+        },
+        {
+          "question": "Solve: 5²",
+          "type": "mcq",
+          "options": ["20", "25", "30", "35"],
+          "answer": "25"
+        },
+        {
+          "question": "What is the sum of the first 5 natural numbers?",
+          "type": "one_word",
+          "answer": "15"
+        },
+        {
+          "question": "What is the formula for the area of a rectangle?",
+          "type": "mcq",
+          "options": ["Length × Width", "2 × (Length + Width)", "Length + Width", "Length ÷ Width"],
+          "answer": "Length × Width"
+        },
+        {
+          "question": "What is the remainder when 17 is divided by 3?",
+          "type": "one_word",
+          "answer": "2"
+        },
+        {
+          "question": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+          "type": "mcq",
+          "options": ["20", "24", "32", "64"],
+          "answer": "32"
+        },
+        {
+          "question": "What is the value of 7 + 8 × 0?",
+          "type": "one_word",
+          "answer": "7"
+        }
+      ],
+      "indian_history": [
+        {
+          "question": "Who was the first Prime Minister of India?",
+          "type": "one_word",
+          "answer": "Jawaharlal Nehru"
+        },
+        {
+          "question": "In which year did India gain independence?",
+          "type": "mcq",
+          "options": ["1945", "1946", "1947", "1948"],
+          "answer": "1947"
+        },
+        {
+          "question": "Who is known as the Father of the Indian Constitution?",
+          "type": "one_word",
+          "answer": "B.R. Ambedkar"
+        },
+        {
+          "question": "Which Mughal emperor built the Taj Mahal?",
+          "type": "mcq",
+          "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+          "answer": "Shah Jahan"
+        },
+        {
+          "question": "Who was the last Governor-General of independent India?",
+          "type": "one_word",
+          "answer": "C. Rajagopalachari"
+        },
+        {
+          "question": "In which year was the Indian National Congress formed?",
+          "type": "mcq",
+          "options": ["1875", "1880", "1885", "1890"],
+          "answer": "1885"
+        },
+        {
+          "question": "Who was the founder of the Maurya Empire?",
+          "type": "one_word",
+          "answer": "Chandragupta Maurya"
+        },
+        {
+          "question": "Who led the Dandi March in 1930?",
+          "type": "mcq",
+          "options": ["Mahatma Gandhi", "Subhas Chandra Bose", "Jawaharlal Nehru", "Sardar Patel"],
+          "answer": "Mahatma Gandhi"
+        },
+        {
+          "question": "Who wrote the book 'Discovery of India'?",
+          "type": "one_word",
+          "answer": "Jawaharlal Nehru"
+        },
+        {
+          "question": "Which battle marked the beginning of British rule in India?",
+          "type": "mcq",
+          "options": ["Battle of Plassey", "Battle of Panipat", "Battle of Buxar", "Battle of Haldighati"],
+          "answer": "Battle of Plassey"
+        },
+        {
+          "question": "Who was the founder of the Gupta Empire?",
+          "type": "one_word",
+          "answer": "Chandragupta I"
+        },
+        {
+          "question": "Who was known as the 'Iron Man of India'?",
+          "type": "mcq",
+          "options": ["Mahatma Gandhi", "Sardar Patel", "Bhagat Singh", "Subhas Chandra Bose"],
+          "answer": "Sardar Patel"
+        },
+        {
+          "question": "When was the Jallianwala Bagh massacre?",
+          "type": "one_word",
+          "answer": "1919"
+        },
+        {
+          "question": "Who started the 'Quit India Movement'?",
+          "type": "mcq",
+          "options": ["Subhas Chandra Bose", "Mahatma Gandhi", "Jawaharlal Nehru", "Bal Gangadhar Tilak"],
+          "answer": "Mahatma Gandhi"
+        },
+        {
+          "question": "Which Viceroy partitioned Bengal in 1905?",
+          "type": "one_word",
+          "answer": "Lord Curzon"
+        },
+        {
+          "question": "Who was the first Indian woman to become the President of the Indian National Congress?",
+          "type": "mcq",
+          "options": ["Indira Gandhi", "Sarojini Naidu", "Annie Besant", "Sucheta Kriplani"],
+          "answer": "Sarojini Naidu"
+        },
+        {
+          "question": "Who was the ruler during the Third Battle of Panipat?",
+          "type": "one_word",
+          "answer": "Ahmad Shah Abdali"
+        },
+        {
+          "question": "Which movement was started by Swami Vivekananda?",
+          "type": "mcq",
+          "options": ["Arya Samaj", "Brahmo Samaj", "Ramakrishna Mission", "Young Bengal Movement"],
+          "answer": "Ramakrishna Mission"
+        },
+        {
+          "question": "Which dynasty built the Khajuraho temples?",
+          "type": "one_word",
+          "answer": "Chandela"
+        },
+        {
+          "question": "Who gave the slogan 'Jai Hind'?",
+          "type": "mcq",
+          "options": ["Mahatma Gandhi", "Subhas Chandra Bose", "Jawaharlal Nehru", "Bhagat Singh"],
+          "answer": "Subhas Chandra Bose"
+        }
+      ]
+    }
+  }
+  
